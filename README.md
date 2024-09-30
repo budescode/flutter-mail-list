@@ -21,11 +21,15 @@ avatar logic appropriately based on the availability of image URLs.
    ```bash
    git clone https://github.com/budescode/flutter-mail-list
 
-2. Install packages:
+2. CD to project folder:
+   ```bash
+   cd flutter-mail-list
+
+3. Install packages:
    ```bash
    flutter pub get
 
-3. Run the app:
+4. Run the app:
    ```bash
    flutter run
       
