@@ -17,7 +17,7 @@ avatar logic appropriately based on the availability of image URLs.
 
 ## Screenshots
 
-![Email List Screenshot](./screenshots/home.jpeg)
+![Email List Screenshot](./screenshots/home.jpg)
 
 ## Installation
 
