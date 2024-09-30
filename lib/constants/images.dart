@@ -1,0 +1,9 @@
+const String mailIcon = "assets/icons/mail.png";
+const String chatIcon  = "assets/icons/chatbubbles.png";
+const String calenderIcon = "assets/icons/calendar.png";
+const String settingsIcon = "assets/icons/settings.png";
+const String menuIcon = "assets/icons/menu.png";
+const String searchIcon =  "assets/icons/search.png";
+const String badImage = 'assets/icons/bad-image.png';
+const String errorIcon = 'assets/icons/error.png';
+const String successIcon = 'assets/icons/success.png';
