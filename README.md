@@ -2,15 +2,34 @@
 
 A new Flutter project.
 
-## Getting Started
+## Flutter Mail List
 
-This project is a starting point for a Flutter application.
+A Mail List screen for a mobile application using Flutter. The screen displays a
+list of emails fetched from a provided API, shows a count of unread emails at the top, and handle
+avatar logic appropriately based on the availability of image URLs.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Fetches emails from an API
+- Displays a list of emails
+- Uses Provider for state management
+- Responsive UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Email List Screenshot](./screenshots/home.jpeg)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/budescode/flutter-mail-list
+
+2. Install packages:
+   ```bash
+   flutter pub get
+
+3. Run the app:
+   ```bash
+   flutter run
+      
