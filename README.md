@@ -15,10 +15,6 @@ avatar logic appropriately based on the availability of image URLs.
 - Uses Provider for state management
 - Responsive UI
 
-## Screenshots
-
-![Email List Screenshot](./screenshots/home.jpg)
-
 ## Installation
 
 1. Clone the repository:
